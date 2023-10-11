@@ -38,6 +38,12 @@ section.products {
     margin: 40px;
 }
 
+section.products1 {
+    display: none;
+    margin: auto;
+    margin: 40px;
+}
+
 .pt1 {
     margin: auto;
     height: 255px;
@@ -64,6 +70,7 @@ section.products {
 }
 
 footer {
+    margin-top: 10px;
     background-color: black;
     color: white;
     padding: 10px;
